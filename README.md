@@ -1,6 +1,6 @@
 # projet  
 
-## Les 11 commandements conseils pour bien vivre son apothéose  
+## Les 11 commandements conseils pour bien vivre sa formation  
 
 1 - Ne codez pas 12 heures d'affilée. Dormez, les déclics se feront plus facilment ! 💤
 2 - Communiquez ! Ne codez pas dans votre coin. Ne restez pas des heures sans parler avec votre équipe (surtout back/front). Manque de communication = malentendus = groupe qui prend feu ! 😱🔥
